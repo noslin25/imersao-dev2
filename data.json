@@ -1,0 +1,201 @@
+[
+    {
+"nome": "Palmeiras",
+    "descricao": "O Palmeiras é o maior campeão dos últimos tempos do Brasileirão com 12 títulos.",
+    "ano": 1914,
+    "Link": "https://pt.wikipedia.org/wiki/Sociedade_Esportiva_Palmeiras",
+    "tags": [
+      "campeão brasileiro",
+      "são paulo",
+      "alviverde",
+      "maior campeão"
+    ]
+  },
+  {
+    "nome": "Santos",
+    "descricao": "O Santos tem 8 títulos do Campeonato Brasileiro.",
+    "ano": 1912,
+    "Link": "https://pt.wikipedia.org/wiki/Santos_Futebol_Clube",
+    "tags": [
+      "campeão brasileiro",
+      "são paulo",
+      "litoral",
+      "peixe"
+    ]
+  },
+  {
+    "nome": "Corinthians",
+    "descricao": "O Corinthians possui 7 títulos do Campeonato Brasileiro.",
+    "ano": 1910,
+    "Link": "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista",
+    "tags": [
+      "campeão brasileiro",
+      "são paulo",
+      "timão"
+    ]
+  },
+  {
+    "nome": "Flamengo",
+    "descricao": "O Flamengo tem 7 títulos do Brasileirão, sendo um dos maiores campeões.",
+    "ano": 1895,
+    "Link": "https://pt.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo",
+    "tags": [
+      "campeão brasileiro",
+      "rio de janeiro",
+      "rubro-negro"
+    ]
+  },
+  {
+    "nome": "São Paulo",
+    "descricao": "O São Paulo foi campeão brasileiro 6 vezes.",
+    "ano": 1930,
+    "Link": "https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_Futebol_Clube",
+    "tags": [
+      "campeão brasileiro",
+      "são paulo",
+      "tricolor"
+    ]
+  },
+  {
+    "nome": "Cruzeiro",
+    "descricao": "O Cruzeiro foi campeão brasileiro 4 vezes.",
+    "ano": 1921,
+    "Link": "https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube",
+    "tags": [
+      "campeão brasileiro",
+      "minas gerais",
+      "raposa"
+    ]
+  },
+  {
+    "nome": "Vasco da Gama",
+    "descricao": "O Vasco da Gama conquistou o Campeonato Brasileiro 4 vezes.",
+    "ano": 1898,
+    "Link": "https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama",
+    "tags": [
+      "campeão brasileiro",
+      "rio de janeiro",
+      "cruzmaltino"
+    ]
+  },
+  {
+    "nome": "Fluminense",
+    "descricao": "O Fluminense tem 4 títulos do Campeonato Brasileiro.",
+    "ano": 1902,
+    "Link": "https://pt.wikipedia.org/wiki/Fluminense_Football_Club",
+    "tags": [
+      "campeão brasileiro",
+      "rio de janeiro",
+      "tricolor carioca"
+    ]
+  },
+  {
+    "nome": "Internacional",
+    "descricao": "O Internacional foi campeão brasileiro 3 vezes.",
+    "ano": 1909,
+    "Link": "https://pt.wikipedia.org/wiki/Sport_Club_Internacional",
+    "tags": [
+      "campeão brasileiro",
+      "rio grande do sul",
+      "colorado"
+    ]
+  },
+  {
+    "nome": "Atlético Mineiro",
+    "descricao": "O Atlético Mineiro possui 3 títulos do Campeonato Brasileiro.",
+    "ano": 1908,
+    "Link": "https://pt.wikipedia.org/wiki/Clube_Atl%C3%A9tico_Mineiro",
+    "tags": [
+      "campeão brasileiro",
+      "minas gerais",
+      "galo"
+    ]
+  },
+  {
+    "nome": "Grêmio",
+    "descricao": "O Grêmio foi campeão brasileiro 2 vezes.",
+    "ano": 1903,
+    "Link": "https://pt.wikipedia.org/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense",
+    "tags": [
+      "campeão brasileiro",
+      "rio grande do sul",
+      "imortal tricolor"
+    ]
+  },
+  {
+    "nome": "Botafogo",
+    "descricao": "O Botafogo tem 2 títulos do Campeonato Brasileiro.",
+    "ano": 1904,
+    "Link": "https://pt.wikipedia.org/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense",
+    "tags": [
+      "campeão brasileiro",
+      "rio de janeiro",
+      "glorioso"
+    ]  },
+  {
+    "nome": "Bahia",
+    "descricao": "O Bahia foi campeão brasileiro 2 vezes.",
+    "ano": 1931,
+    "Link": "https://pt.wikipedia.org/wiki/Esporte_Clube_Bahia",
+    "tags": [
+      "campeão brasileiro",
+      "bahia",
+      "tricolor de aço"
+    ]
+  },
+  {
+    "nome": "Sport Recife",
+    "descricao": "O Sport Recife conquistou o Campeonato Brasileiro 1 vez.",
+    "ano": 1905,
+    "Link": "https://pt.wikipedia.org/wiki/Sport_Club_do_Recife",
+    "tags": [
+      "campeão brasileiro",
+      "pernambuco",
+      "leão da ilha"
+    ]
+  },
+  {
+    "nome": "Guarani",
+    "descricao": "O Guarani tem 1 título do Campeonato Brasileiro.",
+    "ano": 1911,
+    "Link": "https://pt.wikipedia.org/wiki/Guarani_Futebol_Clube",
+    "tags": [
+      "campeão brasileiro",
+      "são paulo",
+      "bugre"
+    ]
+  },
+  {
+    "nome": "Athletico Paranaense",
+    "descricao": "O Athletico Paranaense foi campeão brasileiro 1 vez.",
+    "ano": 1924,
+    "Link": "https://pt.wikipedia.org/wiki/Club_Athletico_Paranaense",
+    "tags": [
+      "campeão brasileiro",
+      "paraná",
+      "furacão"
+    ]
+  },
+  {
+    "nome": "Coritiba",
+    "descricao": "O Coritiba foi campeão brasileiro 1 vez.",
+    "ano": 1909,
+    "Link": "https://pt.wikipedia.org/wiki/Coritiba_Foot_Ball_Club",
+    "tags": [
+      "campeão brasileiro",
+      "paraná",
+      "coxa"
+    ]
+  },
+  {
+    "nome": "Paulinense",
+    "descricao": "O Paulinense foi o primeiro campeão brasileiro em 1902.",
+    "ano": 1900,
+    "Link": "https://pt.wikipedia.org/wiki/Club_Athletico_Paulinense",
+    "tags": [
+      "campeão brasileiro",
+      "são paulo",
+      "histórico"
+    ]
+  }
+]
